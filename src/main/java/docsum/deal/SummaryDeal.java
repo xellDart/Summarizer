@@ -37,7 +37,7 @@ public class SummaryDeal {
         String path = System.getProperty("user.dir") + "/src/main/resources/";
         try {
             File imgOutFile = new File(path + "texto.jpg");
-            ImageIO.write(image, "png", imgOutFile);
+            ImageIO.write(image, "jpg", imgOutFile);
         } catch (IOException e) {
             e.printStackTrace();
         }
