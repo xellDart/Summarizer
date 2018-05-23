@@ -34,7 +34,7 @@ public class SummaryDeal {
     }
 
     private void writeImage(BufferedImage image) {
-        String path = System.getProperty("user.dir") + "/DocumentSummarizer/src/main/resources/";
+        String path = System.getProperty("user.dir") + "/src/main/resources/";
         try {
             File imgOutFile = new File(path + "texto.jpg");
             ImageIO.write(image, "png", imgOutFile);
@@ -45,7 +45,7 @@ public class SummaryDeal {
     }
 
     private String getText() throws IOException, TimeoutException, InterruptedException {
-        String file = System.getProperty("user.dir") + "/DocumentSummarizer/src/main/resources/extract_text.py";
+        String file = System.getProperty("user.dir") + "/src/main/resources/extract_text.py";
         StringBuilder data = new StringBuilder();
         new ProcessExecutor().command("python3", file)
                 .redirectOutput(new LogOutputStream() {
