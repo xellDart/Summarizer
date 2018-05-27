@@ -1,0 +1,13 @@
+/home/xperiafan13/Documentos/document-summarizer-master/DocumentSummarizer/src/main/java/docsum/algorithm/IndexValuePair.java
+/home/xperiafan13/Documentos/document-summarizer-master/DocumentSummarizer/src/main/java/docsum/Main.java
+/home/xperiafan13/Documentos/document-summarizer-master/DocumentSummarizer/src/main/java/docsum/algorithm/SummarizationAlgorithm.java
+/home/xperiafan13/Documentos/document-summarizer-master/DocumentSummarizer/src/main/java/docsum/summarizer/DocumentSummarizer.java
+/home/xperiafan13/Documentos/document-summarizer-master/DocumentSummarizer/src/main/java/docsum/Model/Result.java
+/home/xperiafan13/Documentos/document-summarizer-master/DocumentSummarizer/src/main/java/docsum/summarizer/SentencePreprocessor.java
+/home/xperiafan13/Documentos/document-summarizer-master/DocumentSummarizer/src/main/java/docsum/algorithm/HITSNode.java
+/home/xperiafan13/Documentos/document-summarizer-master/DocumentSummarizer/src/main/java/docsum/algorithm/HITSAlgorithm.java
+/home/xperiafan13/Documentos/document-summarizer-master/DocumentSummarizer/src/main/java/docsum/algorithm/KeywordAlgorithm.java
+/home/xperiafan13/Documentos/document-summarizer-master/DocumentSummarizer/src/main/java/docsum/summarizer/KeywordExtractor.java
+/home/xperiafan13/Documentos/document-summarizer-master/DocumentSummarizer/src/main/java/docsum/summarizer/SentenceSegmenter.java
+/home/xperiafan13/Documentos/document-summarizer-master/DocumentSummarizer/src/main/java/docsum/algorithm/MeadAlgorithm.java
+/home/xperiafan13/Documentos/document-summarizer-master/DocumentSummarizer/src/main/java/docsum/deal/SummaryDeal.java

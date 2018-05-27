@@ -36,7 +36,7 @@ public class SummaryDeal {
     private void writeImage(BufferedImage image) {
         String path = System.getProperty("user.dir") + "/src/main/resources/";
         try {
-            File imgOutFile = new File(path + "texto.jpg");
+            File imgOutFile = new File(path + "text.jpg");
             ImageIO.write(image, "jpg", imgOutFile);
         } catch (IOException e) {
             e.printStackTrace();
@@ -45,16 +45,17 @@ public class SummaryDeal {
     }
 
     private String getText() throws IOException, TimeoutException, InterruptedException {
-        String file = System.getProperty("user.dir") + "/src/main/resources/extract_text.py";
+        String file = System.getProperty("user.dir") + "/src/main/resources/ocr.R";
         StringBuilder data = new StringBuilder();
-        new ProcessExecutor().command("python3", file)
+        new ProcessExecutor().command("Rscript", file)
                 .redirectOutput(new LogOutputStream() {
                     @Override
                     protected void processLine(String line) {
                         data.append(line);
                     }
                 }).execute();
-        return data.toString();
+        String[] parts = data.toString().split("rsvg, webp");
+        return parts[1];
     }
 
     private Result summarize(String data, int percentage) {
