@@ -54,7 +54,6 @@ public class SummaryDeal {
                         data.append(line);
                     }
                 }).execute();
-        System.out.print(data.toString());
         String[] parts = data.toString().split("webp");
         return parts[1];
     }
