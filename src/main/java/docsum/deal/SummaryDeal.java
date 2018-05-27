@@ -51,7 +51,7 @@ public class SummaryDeal {
                 .redirectOutput(new LogOutputStream() {
                     @Override
                     protected void processLine(String line) {
-                        data.append(line.concat("/n"));
+                        data.append(line);
                     }
                 }).execute();
         String[] parts = data.toString().split("webp");
