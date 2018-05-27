@@ -55,7 +55,7 @@ public class SummaryDeal {
                     }
                 }).execute();
         System.out.print(data.toString());
-        String[] parts = data.toString().split("rsvg, webp");
+        String[] parts = data.toString().split("webp");
         return parts[1];
     }
 
