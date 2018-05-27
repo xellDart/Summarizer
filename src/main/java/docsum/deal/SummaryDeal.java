@@ -52,7 +52,7 @@ public class SummaryDeal {
                     @Override
                     protected void processLine(String line) {
                         data.append(line);
-                        data.append("\n");
+                        data.append(System.getProperty("line.separator"));
                     }
                 }).execute();
         String[] parts = data.toString().split("webp");
