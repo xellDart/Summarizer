@@ -88,6 +88,18 @@
         "key": "animalplanet",
         "img": "https://image.ibb.co/mNAOK8/Animal_Planet.jpg",
         "description": "Este canal ofrece extraordinarias historias de intriga, aventura, humor, amistad y lucha por la supervivencia. Animal Planet es el único canal del planeta dedicado a los amantes de los animales."
+      },
+    {
+        "title": "Discovery Kids",
+        "key": "discoveryk",
+        "img": "https://image.ibb.co/eu3M6o/1200px_2016_Discovery_Kids_logo_svg.png",
+        "description": "Discovery Kids nace como una iniciativa de Discovery Communications Inc. por ejercer un contenido educativo dirigido principalmente al público infantil en edades entre 2 y 6 años. Los primeros proyectos anteriores a la consolidación del canal se efectuaron en el canal Discovery Channel, el cual es el principal y más reconocido filial de la empresa."
+      },
+    {
+        "title": "Cartoon Network",
+        "key": "cartoon",
+        "img": "https://image.ibb.co/gVr2CT/gt_cartoon_network_m.png",
+        "description": "Cartoon Network emite programación para el público infantil (Hace unos años atrás mayormente todo su contenido era destinado para niños), aunque ciertos programas de violencia fantástica y humor crudo son recomendables para mayores de 7 años; pero recientemente los programas de la señal han cambiado su clasificación, y actualmente, programas como Adventure Time y MAD que incluyen humor satírico son sugeridos para un público en su mayoría mayores de 12 y 15 años."
       }
 
 ]
