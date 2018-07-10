@@ -1,0 +1,87 @@
+[
+    {
+        "title": "Caracol",
+        "key": "caracol",
+        "img": "https://image.ibb.co/hhavz8/caracol.png",
+        "description": "Caracol Internacional es un canal de televisión por suscripción internacional de origen colombiano. Fue lanzado el 12 de diciembre de 2002 y es propiedad de Caracol Televisión. Ofrece una variedad de programación compuesta por programas colombianos, la mayoría de ellos producidos por Caracol Televisión."
+      },
+      {
+        "title": "RCN Television",
+        "key": "rcn",
+        "img": "https://image.ibb.co/eUxaz8/rcn.jpg",
+        "description": "RCN Televisión (acrónimo de Radio Cadena Nacional y más conocido como RCN) es un canal de televisión abierta colombiano, perteneciente a la Organización Ardila Lülle. Fue fundada como empresa productora de contenido televisivo el 23 de marzo de 1967 e inició sus emisiones como canal independiente el 10 de julio de 1998."
+      },
+      {
+        "title": "DIRECTV",
+        "key": "d1r3ktv",
+        "img": "https://image.ibb.co/dNVTK8/directv.png",
+        "description": "Contenido original y exclusivo, tecnología de la más alta calidad y el mejor servicio son los diferenciales con los cuales DIRECTV marca un estándar en entretenimiento."
+      },
+      {
+        "title": "FOX",
+        "key": "fox",
+        "img": "https://image.ibb.co/c4ZYmo/fox.jpg",
+        "description": "Fox Broadcasting Company1​ (comúnmente conocida como Fox; estilizada como FOX)2​3​ es la empresa que gestiona una cadena de televisión de los Estados Unidos que comenzó sus emisiones el 9 de octubre de 1986 con el programa The Late Show Starring Joan Rivers, pero su debut en la programación prime fue el 5 de abril de 1987, siendo su primer programa el episodio piloto de la serie Married with Children."
+      },
+      {
+        "title": "TDN",
+        "key": "tdn",
+        "img": "https://image.ibb.co/hrv66o/tdn.jpg",
+        "description": "Televisa Deportes Network (también conocido por sus siglas TDN) es un canal de televisión especializado en deportes. Fue lanzado al aire el 22 de julio del 2009 y es propiedad del Grupo Televisa. La señal centroamericana de este canal fue relanzada como TD Centro el 7 de diciembre del 2015."
+      },
+      {
+        "title": "TNT",
+        "key": "tnt",
+        "img": "https://image.ibb.co/dGdR6o/tnt.png",
+        "description": "Cuando de drama se trata, TNT es la alternativa. El primer y único canal dedicado a series dramáticas; TNT te ofrece series poderosas series originales, las series más populares, películas, la acción de la NBA, el tour de la PGA y mucho más."
+      },
+      {
+        "title": "Universal Channel",
+        "key": "universalc",
+        "img": "https://image.ibb.co/mvpNe8/universal.png",
+        "description": "Su programación se compone de series, películas de los Estudios Universal y programas basados en el crimen, la investigación y el drama, además de series de comedia. El 1 de octubre el canal cambiará de nombre a Universal TV."
+      },
+      {
+        "title": "FOX Premium Series",
+        "key": "foxseries",
+        "img": "https://image.ibb.co/n2otmo/fox_series.png",
+        "description": "Su programación está basada en la transmisión de series, mayormente producidas por Starz y otras productoras de series que se transmiten en su idioma original con subtítulos en español. Posee dos señales (Este y Oeste), la primera con el horario de Argentina y la segunda con el horario de México. La señal este está disponible también en alta definición. Compite directamente con HBO aúnque solamente los domingos por la noche."
+      },
+      {
+        "title": "FOX Premium Action",
+        "key": "foxaction",
+        "img": "https://image.ibb.co/hjuoK8/fox_action.png",
+        "description": "Su programación se basa en cine de acción, terror, aventura y suspenso. Adicionalmente transmite los eventos PPV de lucha libre profesional de la WWE, boxeo mundial, UFC y desde 2018, las carreras de la Formula 1 en vivo y sus películas que se transmiten en su idioma original con subtítulos en español."
+      },
+      {
+        "title": "Fox Premium Movies",
+        "key": "foxmovies",
+        "img": "https://image.ibb.co/b5AjsT/fox_movies.jpg",
+        "description": "u programación está basada en la transmisión de películas de estreno. Emite cine de Hollywood con 5 minutos de separación entre películas que se transmiten en su idioma original con subtítulos en español."
+      },
+      {
+        "title": "Warner TV",
+        "key": "warner",
+        "img": "https://image.ibb.co/cFSKRo/warner.jpg",
+        "description": "Warner TV (también conocido como Warner) es un canal de televisión por suscripción latinoamericano de origen estadounidense operado por Turner Broadcasting System Latin America, empresa filial perteneciente a WarnerMedia. Se unió al Consejo Latinoamericano de Publicidad en Multicanales (LAMAC) en 2004. Está centrado en emisión de series, comedia y entretenimiento."
+      },
+      {
+        "title": "FX",
+        "key": "fx",
+        "img": "https://image.ibb.co/dn1qXT/fx.jpg",
+        "description": "FX es un canal de televisión por suscripción latinoamericano, operado por Fox Networks Group Latin America y propiedad de 21st Century Fox, orientado a jóvenes y adultos y emite series de acción, series de comedia, series animadas para adultos, y películas, las cuales presenta con su nombre original en inglés."
+      },
+      {
+        "title": "Space",
+        "key": "space",
+        "img": "https://image.ibb.co/mTvTK8/space.png",
+        "description": "Space es un canal de televisión por suscripción latinoamericano de origen argentino que emite, principalmente, series estadounidenses y películas de la década de 1980 y 1990, además del ciclo de boxeo Combate Space. Fue lanzado al aire el 11 de marzo de 1991."
+      },
+      {
+        "title": "History",
+        "key": "history",
+        "img": "https://image.ibb.co/izpAXT/history.png",
+        "description": "Los ahora escasos programas relacionados sobre historia se abordan siguiendo temas relacionados y organizados en semanas temáticas y maratones diarios. Los temas incluyen historia militar (especialmente la Segunda Guerra Mundial), historia militar medieval, los siglos XIX, XX y XXI, ingeniería moderna y biografías de personajes antiguos."
+      }
+
+]
