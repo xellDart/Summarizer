@@ -100,6 +100,12 @@
         "key": "cartoon",
         "img": "https://image.ibb.co/gVr2CT/gt_cartoon_network_m.png",
         "description": "Cartoon Network emite programación para el público infantil (Hace unos años atrás mayormente todo su contenido era destinado para niños), aunque ciertos programas de violencia fantástica y humor crudo son recomendables para mayores de 7 años; pero recientemente los programas de la señal han cambiado su clasificación, y actualmente, programas como Adventure Time y MAD que incluyen humor satírico son sugeridos para un público en su mayoría mayores de 12 y 15 años."
+      },
+    {
+        "title": "Boomerang",
+        "key": "boomerang",
+        "img": "https://image.ibb.co/kidDmo/1200px_Boomerang_2014_logo_svg.png",
+        "description": "Boomerang es un canal de televisión por suscripción de origen estadounidense que se especializa en emitir programación clásica y contemporánea de la biblioteca audiovisual de Time Warner, incluyendo a los Looney Tunes, Tom y Jerry y Scooby-Doo, junto con repeticiones de series en producción del canal hermano Cartoon Network, en los que se incluye a Sonic Boom y The Powerpuff Girls. Es propiedad de WarnerMedia y es operado por medio de Turner Broadcasting System."
       }
 
 ]
