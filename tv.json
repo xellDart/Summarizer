@@ -82,6 +82,12 @@
         "key": "history",
         "img": "https://image.ibb.co/izpAXT/history.png",
         "description": "Los ahora escasos programas relacionados sobre historia se abordan siguiendo temas relacionados y organizados en semanas temáticas y maratones diarios. Los temas incluyen historia militar (especialmente la Segunda Guerra Mundial), historia militar medieval, los siglos XIX, XX y XXI, ingeniería moderna y biografías de personajes antiguos."
+      },
+      {
+        "title": "Animal Planet",
+        "key": "animalplanet",
+        "img": "https://image.ibb.co/mNAOK8/Animal_Planet.jpg",
+        "description": "Este canal ofrece extraordinarias historias de intriga, aventura, humor, amistad y lucha por la supervivencia. Animal Planet es el único canal del planeta dedicado a los amantes de los animales."
       }
 
 ]
