@@ -130,5 +130,11 @@
         "key": "tooncast",
         "img": "https://image.ibb.co/guMzRo/d49565165e61da915e80dab8430d1a3f8bf21de0_hq.jpg",
         "description": "ooncast es un canal de televisión por suscripción latinoamericano lanzado en diciembre de 2008, propiedad de Time Warner y operado por Turner Broadcasting System Latin America, el cual emite antiguos dibujos animados de Hanna-Barbera, Ruby-Spears, Filmation, Warner Bros, Cartoon Network y MGM."
+      },
+     {
+        "title": "HBO",
+        "key": "hbo",
+        "img": "https://image.ibb.co/iT1dmo/hbo_logo_350ea34a4fd970b6_256x256.png",
+        "description": "HBO es uno de los canales de televisión por cable y satélite más populares de Estados Unidos y Latinoamérica. Es propiedad de la empresa estadounidense Time Warner y su sede central se encuentra en Nueva York."
       }
 ]
