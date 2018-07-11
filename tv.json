@@ -136,5 +136,11 @@
         "key": "hbo",
         "img": "https://image.ibb.co/iT1dmo/hbo_logo_350ea34a4fd970b6_256x256.png",
         "description": "HBO es uno de los canales de televisión por cable y satélite más populares de Estados Unidos y Latinoamérica. Es propiedad de la empresa estadounidense Time Warner y su sede central se encuentra en Nueva York."
+      },
+    {
+        "title": "HBO Plus",
+        "key": "HBO-Plushbo",
+        "img": "https://image.ibb.co/eeJVz8/HBOPLUS.png",
+        "description": "HBO es uno de los canales de televisión por cable y satélite más populares de Estados Unidos y Latinoamérica. Es propiedad de la empresa estadounidense Time Warner y su sede central se encuentra en Nueva York."
       }
 ]
