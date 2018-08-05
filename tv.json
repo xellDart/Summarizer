@@ -163,6 +163,7 @@
     {
         "title": "Disney Channel",
         "key": "disneych",
+        "mx": true,
         "list": "disney-multicountry",
         "img": "http://i61.tinypic.com/2psivma.jpg",
         "description": "HBO es uno de los canales de televisión por cable y satélite más populares de Estados Unidos y Latinoamérica. Es propiedad de la empresa estadounidense Time Warner y su sede central se encuentra en Nueva York."
