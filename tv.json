@@ -2,156 +2,175 @@
     {
         "title": "Caracol",
         "key": "caracol",
+        "list": "caracol-hd",
         "img": "https://image.ibb.co/hhavz8/caracol.png",
         "description": "Caracol Internacional es un canal de televisión por suscripción internacional de origen colombiano. Fue lanzado el 12 de diciembre de 2002 y es propiedad de Caracol Televisión. Ofrece una variedad de programación compuesta por programas colombianos, la mayoría de ellos producidos por Caracol Televisión."
       },
       {
         "title": "RCN Television",
         "key": "rcn",
+        "list": "rcn",
         "img": "https://image.ibb.co/eUxaz8/rcn.jpg",
         "description": "RCN Televisión (acrónimo de Radio Cadena Nacional y más conocido como RCN) es un canal de televisión abierta colombiano, perteneciente a la Organización Ardila Lülle. Fue fundada como empresa productora de contenido televisivo el 23 de marzo de 1967 e inició sus emisiones como canal independiente el 10 de julio de 1998."
       },
       {
-        "title": "DIRECTV",
-        "key": "d1r3ktv",
-        "img": "https://image.ibb.co/dNVTK8/directv.png",
-        "description": "Contenido original y exclusivo, tecnología de la más alta calidad y el mejor servicio son los diferenciales con los cuales DIRECTV marca un estándar en entretenimiento."
-      },
-      {
         "title": "FOX",
         "key": "fox",
+        "list": "fox",
         "img": "https://image.ibb.co/c4ZYmo/fox.jpg",
         "description": "Fox Broadcasting Company1​ (comúnmente conocida como Fox; estilizada como FOX)2​3​ es la empresa que gestiona una cadena de televisión de los Estados Unidos que comenzó sus emisiones el 9 de octubre de 1986 con el programa The Late Show Starring Joan Rivers, pero su debut en la programación prime fue el 5 de abril de 1987, siendo su primer programa el episodio piloto de la serie Married with Children."
       },
       {
         "title": "TDN",
         "key": "tdn",
+        "list": "tdn",
         "img": "https://image.ibb.co/hrv66o/tdn.jpg",
         "description": "Televisa Deportes Network (también conocido por sus siglas TDN) es un canal de televisión especializado en deportes. Fue lanzado al aire el 22 de julio del 2009 y es propiedad del Grupo Televisa. La señal centroamericana de este canal fue relanzada como TD Centro el 7 de diciembre del 2015."
       },
       {
         "title": "TNT",
         "key": "tnt",
+        "list": "tnt",
         "img": "https://image.ibb.co/dGdR6o/tnt.png",
         "description": "Cuando de drama se trata, TNT es la alternativa. El primer y único canal dedicado a series dramáticas; TNT te ofrece series poderosas series originales, las series más populares, películas, la acción de la NBA, el tour de la PGA y mucho más."
       },
       {
         "title": "Universal Channel",
         "key": "universalc",
+        "list": "universal-channel",
         "img": "https://image.ibb.co/mvpNe8/universal.png",
         "description": "Su programación se compone de series, películas de los Estudios Universal y programas basados en el crimen, la investigación y el drama, además de series de comedia. El 1 de octubre el canal cambiará de nombre a Universal TV."
       },
       {
         "title": "FOX Premium Series",
         "key": "foxseries",
+        "list": "fox-1-hd",
         "img": "https://image.ibb.co/n2otmo/fox_series.png",
         "description": "Su programación está basada en la transmisión de series, mayormente producidas por Starz y otras productoras de series que se transmiten en su idioma original con subtítulos en español. Posee dos señales (Este y Oeste), la primera con el horario de Argentina y la segunda con el horario de México. La señal este está disponible también en alta definición. Compite directamente con HBO aúnque solamente los domingos por la noche."
       },
       {
         "title": "FOX Premium Action",
         "key": "foxaction",
+        "list": "fox-action",
         "img": "https://image.ibb.co/hjuoK8/fox_action.png",
         "description": "Su programación se basa en cine de acción, terror, aventura y suspenso. Adicionalmente transmite los eventos PPV de lucha libre profesional de la WWE, boxeo mundial, UFC y desde 2018, las carreras de la Formula 1 en vivo y sus películas que se transmiten en su idioma original con subtítulos en español."
       },
       {
         "title": "Fox Premium Movies",
         "key": "foxmovies",
+        "list": "fox-movies",
         "img": "https://image.ibb.co/b5AjsT/fox_movies.jpg",
         "description": "u programación está basada en la transmisión de películas de estreno. Emite cine de Hollywood con 5 minutos de separación entre películas que se transmiten en su idioma original con subtítulos en español."
       },
       {
         "title": "Warner TV",
         "key": "warner",
+        "list": "warner",
         "img": "https://image.ibb.co/cFSKRo/warner.jpg",
         "description": "Warner TV (también conocido como Warner) es un canal de televisión por suscripción latinoamericano de origen estadounidense operado por Turner Broadcasting System Latin America, empresa filial perteneciente a WarnerMedia. Se unió al Consejo Latinoamericano de Publicidad en Multicanales (LAMAC) en 2004. Está centrado en emisión de series, comedia y entretenimiento."
       },
       {
         "title": "FX",
         "key": "fx",
+        "list": "fx",
         "img": "https://image.ibb.co/dn1qXT/fx.jpg",
         "description": "FX es un canal de televisión por suscripción latinoamericano, operado por Fox Networks Group Latin America y propiedad de 21st Century Fox, orientado a jóvenes y adultos y emite series de acción, series de comedia, series animadas para adultos, y películas, las cuales presenta con su nombre original en inglés."
       },
       {
         "title": "Space",
         "key": "space",
+        "list": "space",
         "img": "https://image.ibb.co/mTvTK8/space.png",
         "description": "Space es un canal de televisión por suscripción latinoamericano de origen argentino que emite, principalmente, series estadounidenses y películas de la década de 1980 y 1990, además del ciclo de boxeo Combate Space. Fue lanzado al aire el 11 de marzo de 1991."
       },
       {
         "title": "History",
         "key": "history",
+        "list": "history",
         "img": "https://image.ibb.co/izpAXT/history.png",
         "description": "Los ahora escasos programas relacionados sobre historia se abordan siguiendo temas relacionados y organizados en semanas temáticas y maratones diarios. Los temas incluyen historia militar (especialmente la Segunda Guerra Mundial), historia militar medieval, los siglos XIX, XX y XXI, ingeniería moderna y biografías de personajes antiguos."
       },
       {
         "title": "Animal Planet",
         "key": "animalplanet",
+        "list": "animal-planet",
         "img": "https://image.ibb.co/mNAOK8/Animal_Planet.jpg",
         "description": "Este canal ofrece extraordinarias historias de intriga, aventura, humor, amistad y lucha por la supervivencia. Animal Planet es el único canal del planeta dedicado a los amantes de los animales."
       },
     {
         "title": "Discovery Kids",
         "key": "discoveryk",
+        "list": "discovery-kids",
         "img": "https://image.ibb.co/eu3M6o/1200px_2016_Discovery_Kids_logo_svg.png",
         "description": "Discovery Kids nace como una iniciativa de Discovery Communications Inc. por ejercer un contenido educativo dirigido principalmente al público infantil en edades entre 2 y 6 años. Los primeros proyectos anteriores a la consolidación del canal se efectuaron en el canal Discovery Channel, el cual es el principal y más reconocido filial de la empresa."
       },
     {
         "title": "Cartoon Network",
         "key": "cartoon",
+        "list": "cartoon-network",
         "img": "https://image.ibb.co/gVr2CT/gt_cartoon_network_m.png",
         "description": "Cartoon Network emite programación para el público infantil (Hace unos años atrás mayormente todo su contenido era destinado para niños), aunque ciertos programas de violencia fantástica y humor crudo son recomendables para mayores de 7 años; pero recientemente los programas de la señal han cambiado su clasificación, y actualmente, programas como Adventure Time y MAD que incluyen humor satírico son sugeridos para un público en su mayoría mayores de 12 y 15 años."
       },
     {
         "title": "Boomerang",
         "key": "boomerang",
+        "list": "boomerang-cartoon",
         "img": "https://image.ibb.co/kidDmo/1200px_Boomerang_2014_logo_svg.png",
         "description": "Boomerang es un canal de televisión por suscripción de origen estadounidense que se especializa en emitir programación clásica y contemporánea de la biblioteca audiovisual de Time Warner, incluyendo a los Looney Tunes, Tom y Jerry y Scooby-Doo, junto con repeticiones de series en producción del canal hermano Cartoon Network, en los que se incluye a Sonic Boom y The Powerpuff Girls. Es propiedad de WarnerMedia y es operado por medio de Turner Broadcasting System."
       },
     {
         "title": "Nick HD",
         "key": "nick",
+        "list": "nickelodeon",
         "img": "https://image.ibb.co/nbX0XT/Nick_hd.png",
         "description": "Nickelodeon (más conocido como Nick) es un canal de televisión por suscripción latinoamericano de origen estadounidense, el cual orientado a niños y adolescentes. Es propiedad de VIMN The Americas, que opera en Latinoamérica bajo el nombre de Viacom Media Networks. Su programación se basa en comedias juveniles (ya sean producidas en Estados Unidos, o localmente), series animadas y shows para la audiencia preescolar."
       },
 {
         "title": "Disney Junior",
         "key": "disneyjr",
+        "list": "disney-jr-norte",
         "img": "https://image.ibb.co/dJmYmo/logo_disney_junior.png",
         "description": "Disney Junior es un canal de televisión por suscripción estadounidense propiedad de Disney Channels Worldwide, división de Disney-ABC Television Group, a su vez una rama de Disney Media Networks, propiedad de The Walt Disney Company. El canal se especializa en programación para el público preescolar, la cual consiste en series de televisión de producción original, películas de cartelera y de distribución por DVD y otras producciones de terceros. Hasta enero de 2017."
       },
     {
         "title": "Disney XD",
         "key": "disneyxd",
+        "list": "disney-xd-multicountry",
         "img": "https://image.ibb.co/bEALXT/DISNEY_XD_CURSOS_Y_TALLERES_ESCUELA_DOBLAJE_ASTURIAS.png",
         "description": "Disney XD (pronunciado Dísney Ex di) es un canal de televisión por suscripción estadounidense, el cual se enfoca principalmente a niños por su programación, que se basa en series de televisión originales de estreno, series originales actuales y antiguas, telepelículas del canal hermano Disney Channel, películas estrenadas en cine, y algunos comedias y programas animados de otras distribuidoras."
       },
     {
         "title": "Tooncast",
         "key": "tooncast",
+        "list": "tooncast",
         "img": "https://image.ibb.co/guMzRo/d49565165e61da915e80dab8430d1a3f8bf21de0_hq.jpg",
         "description": "ooncast es un canal de televisión por suscripción latinoamericano lanzado en diciembre de 2008, propiedad de Time Warner y operado por Turner Broadcasting System Latin America, el cual emite antiguos dibujos animados de Hanna-Barbera, Ruby-Spears, Filmation, Warner Bros, Cartoon Network y MGM."
       },
      {
         "title": "HBO",
         "key": "hbo",
+        "list": "hbo",
         "img": "https://image.ibb.co/iT1dmo/hbo_logo_350ea34a4fd970b6_256x256.png",
         "description": "HBO es uno de los canales de televisión por cable y satélite más populares de Estados Unidos y Latinoamérica. Es propiedad de la empresa estadounidense Time Warner y su sede central se encuentra en Nueva York."
       },
     {
         "title": "HBO Plus",
         "key": "HBO-Plus",
+        "list": "hbo-plus-este",
         "img": "https://image.ibb.co/eeJVz8/HBOPLUS.png",
         "description": "HBO es uno de los canales de televisión por cable y satélite más populares de Estados Unidos y Latinoamérica. Es propiedad de la empresa estadounidense Time Warner y su sede central se encuentra en Nueva York."
       },
     {
         "title": "Disney Channel",
         "key": "disneych",
+        "list": "disney-multicountry",
         "img": "http://i61.tinypic.com/2psivma.jpg",
         "description": "HBO es uno de los canales de televisión por cable y satélite más populares de Estados Unidos y Latinoamérica. Es propiedad de la empresa estadounidense Time Warner y su sede central se encuentra en Nueva York."
       },
     {
         "title": "AMC",
         "key": "AMC",
+        "list": "amc",
         "img": "http://i58.tinypic.com/ibgsc0.jpg",
         "description": "HBO es uno de los canales de televisión por cable y satélite más populares de Estados Unidos y Latinoamérica. Es propiedad de la empresa estadounidense Time Warner y su sede central se encuentra en Nueva York."
       }
