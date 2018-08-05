@@ -126,6 +126,13 @@
     "description": "u programación está basada en la transmisión de películas de estreno. Emite cine de Hollywood con 5 minutos de separación entre películas que se transmiten en su idioma original con subtítulos en español."
   },
   {
+    "title": "Fox Premium Comedy",
+    "key": "foxcomedy",
+    "list": "fox-comedy",
+    "img": "https://image.ibb.co/i8NmQe/fox_comedy.jpg",
+    "description": "u programación está basada en la transmisión de películas de estreno. Emite cine de Hollywood con 5 minutos de separación entre películas que se transmiten en su idioma original con subtítulos en español."
+  },
+  {
     "title": "Warner TV",
     "key": "warner",
     "list": "warner",
@@ -180,6 +187,104 @@
     "list": "hbo-family",
     "mx": true,
     "img": "https://image.ibb.co/jyxT5e/hbo_family.jpg",
+    "description": "HBO es uno de los canales de televisión por cable y satélite más populares de Estados Unidos y Latinoamérica. Es propiedad de la empresa estadounidense Time Warner y su sede central se encuentra en Nueva York."
+  },
+  {
+    "title": "Golden Plus",
+    "key": "golden",
+    "list": "golden",
+    "img": "https://image.ibb.co/dz54dz/golden.jpg",
+    "description": "HBO es uno de los canales de televisión por cable y satélite más populares de Estados Unidos y Latinoamérica. Es propiedad de la empresa estadounidense Time Warner y su sede central se encuentra en Nueva York."
+  },
+  {
+    "title": "NatGeo",
+    "key": "natgeo",
+    "list": "national-geographic",
+    "img": "https://image.ibb.co/dhBAJz/national.jpg",
+    "description": "HBO es uno de los canales de televisión por cable y satélite más populares de Estados Unidos y Latinoamérica. Es propiedad de la empresa estadounidense Time Warner y su sede central se encuentra en Nueva York."
+  },
+  {
+    "title": "Unicable",
+    "key": "unicable",
+    "list": "unicable",
+    "img": "https://image.ibb.co/dhBAJz/national.jpg",
+    "description": "HBO es uno de los canales de televisión por cable y satélite más populares de Estados Unidos y Latinoamérica. Es propiedad de la empresa estadounidense Time Warner y su sede central se encuentra en Nueva York."
+  },
+  {
+    "title": "Discovery",
+    "key": "discovery",
+    "list": "discovery-channel",
+    "img": "https://image.ibb.co/dhyRQe/discovery.jpg",
+    "description": "HBO es uno de los canales de televisión por cable y satélite más populares de Estados Unidos y Latinoamérica. Es propiedad de la empresa estadounidense Time Warner y su sede central se encuentra en Nueva York."
+  },
+  {
+    "title": "Discovery Turbo",
+    "key": "discoveryturbo",
+    "list": "discovery-turbo",
+    "img": "https://image.ibb.co/jmAHWK/discovery_turbo.jpg",
+    "description": "HBO es uno de los canales de televisión por cable y satélite más populares de Estados Unidos y Latinoamérica. Es propiedad de la empresa estadounidense Time Warner y su sede central se encuentra en Nueva York."
+  },
+  {
+    "title": "Cinemax",
+    "key": "cinemax",
+    "list": "cinemax",
+    "img": "https://image.ibb.co/hBGrrK/cinemax.jpg",
+    "description": "HBO es uno de los canales de televisión por cable y satélite más populares de Estados Unidos y Latinoamérica. Es propiedad de la empresa estadounidense Time Warner y su sede central se encuentra en Nueva York."
+  },
+  {
+    "title": "America TV",
+    "key": "americatv",
+    "list": "cinemax",
+    "img": "https://image.ibb.co/n1KcWK/america.jpg",
+    "description": "HBO es uno de los canales de televisión por cable y satélite más populares de Estados Unidos y Latinoamérica. Es propiedad de la empresa estadounidense Time Warner y su sede central se encuentra en Nueva York."
+  },
+  {
+    "title": "Sony",
+    "key": "sony",
+    "list": "sony",
+    "img": "https://image.ibb.co/detFJz/sony.jpg",
+    "description": "HBO es uno de los canales de televisión por cable y satélite más populares de Estados Unidos y Latinoamérica. Es propiedad de la empresa estadounidense Time Warner y su sede central se encuentra en Nueva York."
+  },
+  {
+    "title": "Discovery Science",
+    "key": "discoveryscience",
+    "list": "discovery-science",
+    "img": "https://image.ibb.co/bYJ4BK/discovery_scince.jpg",
+    "description": "HBO es uno de los canales de televisión por cable y satélite más populares de Estados Unidos y Latinoamérica. Es propiedad de la empresa estadounidense Time Warner y su sede central se encuentra en Nueva York."
+  },
+  {
+    "title": "Discovery Investigation",
+    "key": "idiscovery",
+    "list": "discovery-id-hd",
+    "img": "https://image.ibb.co/g6SxWK/investigation.jpg",
+    "description": "HBO es uno de los canales de televisión por cable y satélite más populares de Estados Unidos y Latinoamérica. Es propiedad de la empresa estadounidense Time Warner y su sede central se encuentra en Nueva York."
+  },
+  {
+    "title": "FOX Life",
+    "key": "foxlife",
+    "list": "fox-life",
+    "img": "https://image.ibb.co/foW2yz/fox_life.jpg",
+    "description": "HBO es uno de los canales de televisión por cable y satélite más populares de Estados Unidos y Latinoamérica. Es propiedad de la empresa estadounidense Time Warner y su sede central se encuentra en Nueva York."
+  },
+  {
+    "title": "TNT Series",
+    "key": "tntseries",
+    "list": "tnt-series",
+    "img": "https://image.ibb.co/expBrK/tnt_series.jpg",
+    "description": "HBO es uno de los canales de televisión por cable y satélite más populares de Estados Unidos y Latinoamérica. Es propiedad de la empresa estadounidense Time Warner y su sede central se encuentra en Nueva York."
+  },
+  {
+    "title": "AXN",
+    "key": "axn",
+    "list": "axn",
+    "img": "https://image.ibb.co/cXsxWK/axn.jpg",
+    "description": "HBO es uno de los canales de televisión por cable y satélite más populares de Estados Unidos y Latinoamérica. Es propiedad de la empresa estadounidense Time Warner y su sede central se encuentra en Nueva York."
+  },
+  {
+    "title": "Canal Cine",
+    "key": "cinecanal",
+    "list": "cinecanal",
+    "img": "https://image.ibb.co/m2yRQe/cine_canal.jpg",
     "description": "HBO es uno de los canales de televisión por cable y satélite más populares de Estados Unidos y Latinoamérica. Es propiedad de la empresa estadounidense Time Warner y su sede central se encuentra en Nueva York."
   },
   {
@@ -250,7 +355,7 @@
     "title": "AMC",
     "key": "AMC",
     "list": "amc",
-    "img": "http://i58.tinypic.com/ibgsc0.jpg",
+    "img": "https://image.ibb.co/jL3hyz/amc.jpg",
     "description": "HBO es uno de los canales de televisión por cable y satélite más populares de Estados Unidos y Latinoamérica. Es propiedad de la empresa estadounidense Time Warner y su sede central se encuentra en Nueva York."
   }
 ]
